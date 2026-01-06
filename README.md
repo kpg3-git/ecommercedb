@@ -31,6 +31,16 @@ It includes customers, products, orders, and order_items tables with proper norm
 - MySQL Workbench
 
 ## Screenshots
+- q1.png – Customers in last 30 days
+- q2.png – Total amount by customer
+- q3.png – Product price update
+- q4.png – Discount column added
+- q5.png – Top 3 highest priced products
+- q6.png – Customers who ordered Product A & Normalization by creating order_items table
+- q7.png - Joined the orders and customers tables to retrieve the customer name and date.
+- q8.png  – Orders with amount > 150rs
+- q10.png – Average total value of all orders
+
 
 
 
